@@ -1,0 +1,15 @@
+{
+    "DFFlagDisableDPIScale": false,
+    "DFFlagUseVisBugChecks": true,
+    "DFIntDebugFRMQualityLevelOverride": 1,
+    "FFlagEnableDisplaySize9": false,
+    "FFlagEnableVisBugChecks28": true,
+    "FFlagHandleAltEnterFullscreenManually": false,
+    "FFlagMovePrerender": true,
+    "FFlagMovePrerenderV2": true,
+    "FFlagNewLightAttenuation3": false,
+    "FIntDebugForceMSAASamples": 0,
+    "FIntFRMMaxGrassDistance": 0,
+    "FIntFRMMinGrassDistance": 0,
+    "FIntGrassMovementReducedMotionFactor": 0
+}
